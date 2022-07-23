@@ -22,3 +22,4 @@ Always [Check](https://www.google.jo/?hl=ar)
 
 ---
 	
+https://github.com/alaardarweesh/reading-notes/blob/notesmd/notes.md
