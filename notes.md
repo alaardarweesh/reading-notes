@@ -1,4 +1,4 @@
-                      Component
+                                                                 Component
 -------
 
 
@@ -27,7 +27,7 @@ There are two types of components:
 
 
 
-                        Props
+                                                                   Props
 
 **1-Abbreviation**
 ---
